@@ -8,7 +8,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Welcome name="Pepe"/>
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -18,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React. Developed using Docker.
+          Lucía. Developed using Docker.
         </a>
       </header>
     </div>
